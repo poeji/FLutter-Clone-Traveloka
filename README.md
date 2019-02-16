@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/poeji/FLutter-Clone-Traveloka/blob/master/images/Android-Traveloka.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
